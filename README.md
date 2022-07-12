@@ -9,3 +9,6 @@
 #### (1)Bevel修改器+shade smooth : offset 0.01m Angle 30<br>
         完成設置後，A全選，ctrl+L 設置修改器modifilers到所有模型上。<br>
         最後右鍵shade smooth。
+### 6.攝影機設置
+#### (1)將攝影機擺放到當前視角 : ctrl + alt +0 
+#### (2)鎖定攝影鏡頭 : 開啟N面板-->View-->Lock camera to view 。
